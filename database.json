@@ -1,0 +1,13 @@
+{
+  "users": [],
+  "channels": [],
+  "dms": [],
+  "resetCodes": [],
+  "userStats": [],
+  "workspaceStats": {
+    "channelsExist": [],
+    "dmsExist": [],
+    "messagesExist": [],
+    "utilizationRate": 0
+  }
+}
